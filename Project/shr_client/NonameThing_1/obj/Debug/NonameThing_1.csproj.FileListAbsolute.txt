@@ -1,0 +1,134 @@
+c:\users\андрей\documents\visual studio 2015\Projects\NonameThing_1\NonameThing_1\bin\Debug\NonameThing_1.exe
+c:\users\андрей\documents\visual studio 2015\Projects\NonameThing_1\NonameThing_1\bin\Debug\NonameThing_1.pdb
+c:\users\андрей\documents\visual studio 2015\Projects\NonameThing_1\NonameThing_1\obj\Debug\NonameThing_1.Form1.resources
+c:\users\андрей\documents\visual studio 2015\Projects\NonameThing_1\NonameThing_1\obj\Debug\NonameThing_1.LoginForm.resources
+c:\users\андрей\documents\visual studio 2015\Projects\NonameThing_1\NonameThing_1\obj\Debug\NonameThing_1.Properties.Resources.resources
+c:\users\андрей\documents\visual studio 2015\Projects\NonameThing_1\NonameThing_1\obj\Debug\NonameThing_1.csproj.GenerateResource.Cache
+c:\users\андрей\documents\visual studio 2015\Projects\NonameThing_1\NonameThing_1\obj\Debug\NonameThing_1.exe
+c:\users\андрей\documents\visual studio 2015\Projects\NonameThing_1\NonameThing_1\obj\Debug\NonameThing_1.pdb
+c:\users\андрей\documents\visual studio 2015\Projects\NonameThing_1\NonameThing_1\bin\Debug\NonameThing_1.exe.config
+c:\users\андрей\documents\visual studio 2015\Projects\NonameThing_1\NonameThing_1\bin\Debug\DotNetZip.dll
+c:\users\андрей\documents\visual studio 2015\Projects\NonameThing_1\NonameThing_1\bin\Debug\DotNetZip.xml
+c:\users\андрей\documents\visual studio 2015\Projects\NonameThing_1\NonameThing_1\obj\Debug\NonameThing_1.SetDate.resources
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\NonameThing_1\NonameThing_1\obj\Debug\NonameThing_1.csprojResolveAssemblyReference.cache
+C:\Users\Black\Documents\shr_client\NonameThing_1\bin\Debug\NonameThing_1.exe.config
+C:\Users\Black\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.exe
+C:\Users\Black\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.pdb
+C:\Users\Black\Documents\shr_client\NonameThing_1\bin\Debug\NonameThing_1.exe
+C:\Users\Black\Documents\shr_client\NonameThing_1\bin\Debug\NonameThing_1.pdb
+C:\Users\Black\Documents\shr_client\NonameThing_1\bin\Debug\DotNetZip.dll
+C:\Users\Black\Documents\shr_client\NonameThing_1\bin\Debug\ProfForTest.dll
+C:\Users\Black\Documents\shr_client\NonameThing_1\bin\Debug\ProfForTest.pdb
+C:\Users\Black\Documents\shr_client\NonameThing_1\bin\Debug\DotNetZip.xml
+C:\Users\Black\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.csprojResolveAssemblyReference.cache
+C:\Users\Black\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Form1.resources
+C:\Users\Black\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.LoginForm.resources
+C:\Users\Black\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Properties.Resources.resources
+C:\Users\Black\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.SetDate.resources
+C:\Users\Black\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\bin\Debug\NonameThing_1.exe.config
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.exe
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.pdb
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\bin\Debug\NonameThing_1.exe
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\bin\Debug\NonameThing_1.pdb
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\bin\Debug\DotNetZip.dll
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\bin\Debug\ProfForTest.dll
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\bin\Debug\ProfForTest.pdb
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\bin\Debug\DotNetZip.xml
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Form1.resources
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.LoginForm.resources
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Properties.Resources.resources
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.SetDate.resources
+C:\Users\Андрей\Documents\shr_client\NonameThing_1\obj\Debug\NonameThing_1.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\bin\Debug\NonameThing_1.exe.config
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\obj\Debug\NonameThing_1.exe
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\obj\Debug\NonameThing_1.pdb
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\bin\Debug\NonameThing_1.exe
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\bin\Debug\NonameThing_1.pdb
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\bin\Debug\DotNetZip.dll
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\bin\Debug\ProfForTest.dll
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\bin\Debug\ProfForTest.pdb
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\bin\Debug\DotNetZip.xml
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\obj\Debug\NonameThing_1.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Form1.resources
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\obj\Debug\NonameThing_1.LoginForm.resources
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Properties.Resources.resources
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\obj\Debug\NonameThing_1.SetDate.resources
+C:\Users\Андрей\Documents\Shreder\shr_client\NonameThing_1\obj\Debug\NonameThing_1.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Shreder_alpha\NonameThing_1\bin\Debug\NonameThing_1.exe.config
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Shreder_alpha\NonameThing_1\obj\Debug\NonameThing_1.exe
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Shreder_alpha\NonameThing_1\obj\Debug\NonameThing_1.pdb
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Shreder_alpha\NonameThing_1\obj\Debug\NonameThing_1.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Shreder_alpha\NonameThing_1\obj\Debug\NonameThing_1.Form1.resources
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Shreder_alpha\NonameThing_1\obj\Debug\NonameThing_1.Properties.Resources.resources
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Shreder_alpha\NonameThing_1\obj\Debug\NonameThing_1.SetDate.resources
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Shreder_alpha\NonameThing_1\obj\Debug\NonameThing_1.csproj.GenerateResource.Cache
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Shreder_alpha\NonameThing_1\bin\Debug\NonameThing_1.exe
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Shreder_alpha\NonameThing_1\bin\Debug\NonameThing_1.pdb
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Shreder_alpha\NonameThing_1\bin\Debug\DotNetZip.dll
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Shreder_alpha\NonameThing_1\bin\Debug\DotNetZip.xml
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Shreder_alpha\NonameThing_1\bin\Debug\ProfForTest.pdb
+C:\Users\Андрей\Documents\Visual Studio 2015\Projects\Shreder_alpha\NonameThing_1\obj\Debug\NonameThing_1.LoginForm.resources
+C:\Project\shr_client\NonameThing_1\bin\Debug\NonameThing_1.exe.config
+C:\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.exe
+C:\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.pdb
+C:\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.csprojResolveAssemblyReference.cache
+C:\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Form1.resources
+C:\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.LoginForm.resources
+C:\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Properties.Resources.resources
+C:\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.SetDate.resources
+C:\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.csproj.GenerateResource.Cache
+C:\Project\shr_client\NonameThing_1\bin\Debug\NonameThing_1.exe
+C:\Project\shr_client\NonameThing_1\bin\Debug\NonameThing_1.pdb
+C:\Project\shr_client\NonameThing_1\bin\Debug\DotNetZip.dll
+C:\Project\shr_client\NonameThing_1\bin\Debug\DotNetZip.xml
+C:\Project\shr_client\NonameThing_1\bin\Debug\ProfForTest.pdb
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\bin\Debug\NonameThing_1.exe.config
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.exe
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.pdb
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\bin\Debug\NonameThing_1.exe.config
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.exe
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.pdb
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\bin\Debug\NonameThing_1.exe
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\bin\Debug\NonameThing_1.pdb
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\bin\Debug\DotNetZip.dll
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\bin\Debug\DotNetZip.xml
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\bin\Debug\ProfForTest.pdb
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Form1.resources
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.LoginForm.resources
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Properties.Resources.resources
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.SetDate.resources
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.csproj.GenerateResource.Cache
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\bin\Debug\NonameThing_1.exe
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\bin\Debug\NonameThing_1.pdb
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\bin\Debug\DotNetZip.dll
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\bin\Debug\DotNetZip.xml
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\bin\Debug\ProfForTest.pdb
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.csprojResolveAssemblyReference.cache
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Form1.resources
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.LoginForm.resources
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Properties.Resources.resources
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.SetDate.resources
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.csproj.GenerateResource.Cache
+C:\Users\Black\Documents\FullShreder\Project\shr_client\NonameThing_1\bin\Debug\ProfForTest.dll
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\bin\Debug\ProfForTest.dll
+C:\Users\Андрей\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Registry.resources
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\bin\Debug\NonameThing_1.exe.config
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.exe
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.pdb
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\bin\Debug\NonameThing_1.exe
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\bin\Debug\NonameThing_1.pdb
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\bin\Debug\DotNetZip.dll
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\bin\Debug\ProfForTest.dll
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\bin\Debug\ProfForTest.pdb
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\bin\Debug\DotNetZip.xml
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.csprojResolveAssemblyReference.cache
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Form1.resources
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.LoginForm.resources
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.MainForm.resources
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Properties.Resources.resources
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.Registry.resources
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.SetDate.resources
+C:\Users\ivan\Documents\fullshreder\Project\shr_client\NonameThing_1\obj\Debug\NonameThing_1.csproj.GenerateResource.Cache

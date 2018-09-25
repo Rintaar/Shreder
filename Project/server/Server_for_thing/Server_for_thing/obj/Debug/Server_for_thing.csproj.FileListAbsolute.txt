@@ -1,0 +1,19 @@
+c:\users\blackwhiter\documents\visual studio 2015\Projects\Server_for_thing\Server_for_thing\bin\Debug\Server_for_thing.exe
+c:\users\blackwhiter\documents\visual studio 2015\Projects\Server_for_thing\Server_for_thing\bin\Debug\Server_for_thing.pdb
+c:\users\blackwhiter\documents\visual studio 2015\Projects\Server_for_thing\Server_for_thing\obj\Debug\Server_for_thing.csprojResolveAssemblyReference.cache
+c:\users\blackwhiter\documents\visual studio 2015\Projects\Server_for_thing\Server_for_thing\obj\Debug\Server_for_thing.exe
+c:\users\blackwhiter\documents\visual studio 2015\Projects\Server_for_thing\Server_for_thing\obj\Debug\Server_for_thing.pdb
+C:\Users\Blackwhiter\documents\visual studio 2015\Projects\Server_for_thing\Server_for_thing\bin\Debug\DotNetZip.dll
+C:\Users\Blackwhiter\documents\visual studio 2015\Projects\Server_for_thing\Server_for_thing\bin\Debug\DotNetZip.xml
+C:\Users\Black\Desktop\Projects\Server_for_thing\Server_for_thing\obj\Debug\Server_for_thing.exe
+C:\Users\Black\Desktop\Projects\Server_for_thing\Server_for_thing\obj\Debug\Server_for_thing.pdb
+C:\Users\Black\Desktop\Projects\Server_for_thing\Server_for_thing\bin\Debug\Server_for_thing.exe
+C:\Users\Black\Desktop\Projects\Server_for_thing\Server_for_thing\bin\Debug\Server_for_thing.pdb
+C:\Users\Black\Desktop\Projects\Server_for_thing\Server_for_thing\bin\Debug\DotNetZip.dll
+C:\Users\Black\Desktop\Projects\Server_for_thing\Server_for_thing\bin\Debug\DotNetZip.xml
+C:\Users\Black\Desktop\Projects\Server_for_thing\Server_for_thing\obj\Debug\Server_for_thing.csprojResolveAssemblyReference.cache
+C:\Users\Black\Desktop\Projects\Server_for_thing\Server_for_thing\bin\Debug\Server_for_thing.exe.config
+C:\Users\Black\Desktop\Projects\Server_for_thing\Server_for_thing\bin\Debug\test.exe
+C:\Users\Black\Desktop\Projects\Server_for_thing\Server_for_thing\bin\Debug\test.pdb
+C:\Users\Black\Desktop\Projects\Server_for_thing\Server_for_thing\bin\Debug\ProfForTest.dll
+C:\Users\Black\Desktop\Projects\Server_for_thing\Server_for_thing\bin\Debug\ProfForTest.pdb

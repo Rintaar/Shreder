@@ -1,0 +1,10 @@
+C:\Users\Black\Desktop\Projects\Server_for_thing\ProfForTest\bin\Debug\ProfForTest.dll.config
+C:\Users\Black\Desktop\Projects\Server_for_thing\ProfForTest\bin\Debug\ProfForTest.dll
+C:\Users\Black\Desktop\Projects\Server_for_thing\ProfForTest\bin\Debug\ProfForTest.pdb
+C:\Users\Black\Desktop\Projects\Server_for_thing\ProfForTest\obj\Debug\ProfForTest.dll
+C:\Users\Black\Desktop\Projects\Server_for_thing\ProfForTest\obj\Debug\ProfForTest.pdb
+C:\Users\Black\Documents\FullShreder\Project\server\Server_for_thing\ProfForTest\bin\Debug\ProfForTest.dll.config
+C:\Users\Black\Documents\FullShreder\Project\server\Server_for_thing\ProfForTest\bin\Debug\ProfForTest.dll
+C:\Users\Black\Documents\FullShreder\Project\server\Server_for_thing\ProfForTest\bin\Debug\ProfForTest.pdb
+C:\Users\Black\Documents\FullShreder\Project\server\Server_for_thing\ProfForTest\obj\Debug\ProfForTest.dll
+C:\Users\Black\Documents\FullShreder\Project\server\Server_for_thing\ProfForTest\obj\Debug\ProfForTest.pdb
